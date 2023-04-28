@@ -1,1 +1,0 @@
-bash: ./simplecomile.sh: No such file or directory
